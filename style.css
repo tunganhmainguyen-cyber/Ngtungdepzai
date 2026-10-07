@@ -1,0 +1,6 @@
+body {
+align-items: center;
+background-attachment:; background-clip: ; background-color:; background-image:; background-origin: ; background-position-x: ; background-position-y: ; background-repeat:; background-size: ; color: var(--text);
+display: flex;
+font-family: "Plus Jakarta Sans", sans-serif; justify-content: center; min-height: 100vh; overflow-x: hidden; padding-bottom: 24px; padding-left: 16px; padding-right: 16px; padding-top: 24px; position: relative;
+}
